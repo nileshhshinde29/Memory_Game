@@ -1,0 +1,41 @@
+.row {
+    --bs-gutter-x: -41.5rem;
+}
+h1{
+    text-align: center;
+    margin: 20px;
+    color: white;
+    background-color: black;
+    font: 20px;
+}
+h2{
+    text-align: center;
+    margin: 20px;
+    color:black;
+    background-color:white;
+    font: 20px;
+}
+/* #comment
+{
+    text-align: center;
+    margin: 20px;
+    color: white;
+    background-color: black;
+    font: 20px;
+}
+#comment2
+{
+    text-align: center;
+    margin: 20px;
+    color: white;
+    background-color: black;
+    font: 20px;
+}
+#result
+{
+    text-align: center;
+    margin: 20px;
+    color: white;
+    background-color: black;
+    font: 20px;
+} */
